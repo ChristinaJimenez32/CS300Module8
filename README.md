@@ -14,4 +14,3 @@ How has your work on this project evolved the way you write programs that are ma
 Engaging in these projects has refined my coding practices to prioritize clarity, documentation, and modular design, ensuring that my code remains maintainable, readable, and adaptable for future enhancements.
 How has your work on this project expanded your approach to designing software and developing programs?
 I am now familiar with data structures and understand when they are more beneficial and will evaluate my ooptions.
-How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
